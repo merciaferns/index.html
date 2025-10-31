@@ -1,4 +1,4 @@
-# 
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -27,7 +27,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap" rel="stylesheet">
 </head>
 <body class="bg-gray-900 text-gray-100 font-sans antialiased">
-
+<body>
     <!-- Navigation Bar -->
     <header class="bg-gothic-gray shadow-lg sticky top-0 z-10">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 flex flex-col sm:flex-row justify-between items-center">
@@ -54,6 +54,7 @@
 
     <!-- Main Content Container -->
     <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 md:py-12">
+    <main>
 
         <!-- HOME PAGE (Updated Content) -->
         <div id="home" class="page-content space-y-8">
